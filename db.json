@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "NCU",
+      "password": "safepassword",
+      "name": "Nathan Cuvelier"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1f73",
+      "title": "Test Note",
+      "content": "This is a test note",
+      "lastUpdateAt": "2024-04-13T14:38:01.719Z",
+      "pinned": false,
+      "completed": false
+    }
+  ]
+}
